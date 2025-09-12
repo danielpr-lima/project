@@ -1,0 +1,10 @@
+{
+  "Build":{
+    "apk":{
+      "channer":"production",
+      "android":{
+      "buildType":"apk"
+      }
+    }
+  }
+}
