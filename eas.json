@@ -1,7 +1,7 @@
 {
-  "Build":{
+  "build":{
     "apk":{
-      "channer":"production",
+      "channel":"production",
       "android":{
       "buildType":"apk"
       }
